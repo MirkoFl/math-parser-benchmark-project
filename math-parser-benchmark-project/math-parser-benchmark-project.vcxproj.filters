@@ -37,115 +37,115 @@
     <ClCompile Include="..\MTParser\MTParserLib\MTUnicodeANSIDefs.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpError.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpError.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpFuncCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpFuncCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpFuncCommon.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpFuncCommon.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpFuncMatrix.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpFuncMatrix.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpFuncNonCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpFuncNonCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpFuncStr.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpFuncStr.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpICallback.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpICallback.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIfThenElse.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIfThenElse.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIOprt.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIOprt.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIPackage.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIPackage.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtBinAssign.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtBinAssign.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtBinCommon.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtBinCommon.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtIndex.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtIndex.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtMatrix.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtMatrix.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtNonCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtNonCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpOprtPostfixCommon.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpOprtPostfixCommon.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageCommon.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageCommon.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageMatrix.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageMatrix.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageNonCmplx.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageNonCmplx.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageStr.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageStr.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpPackageUnit.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpPackageUnit.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpParser.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpParser.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpParserBase.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpParserBase.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIValue.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIValue.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIValReader.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIValReader.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpIToken.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpIToken.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpParserMessageProvider.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpParserMessageProvider.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpRPN.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpRPN.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpScriptTokens.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpScriptTokens.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpTest.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpTest.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpTokenReader.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpTokenReader.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpValReader.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpValReader.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpValue.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpValue.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpValueCache.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpValueCache.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparserx\mpVariable.cpp">
+    <ClCompile Include="..\parsers\muparserx\mpVariable.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
     <ClCompile Include="..\muparser2\muParser.cpp">
@@ -402,136 +402,136 @@
     <ClInclude Include="..\MTParser\MTParserLib\MTTools.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpDefines.h">
+    <ClInclude Include="..\parsers\muparserx\mpDefines.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpError.h">
+    <ClInclude Include="..\parsers\muparserx\mpError.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFuncCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpFuncCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFuncCommon.h">
+    <ClInclude Include="..\parsers\muparserx\mpFuncCommon.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFuncMatrix.h">
+    <ClInclude Include="..\parsers\muparserx\mpFuncMatrix.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFuncNonCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpFuncNonCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFuncStr.h">
+    <ClInclude Include="..\parsers\muparserx\mpFuncStr.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpFwdDecl.h">
+    <ClInclude Include="..\parsers\muparserx\mpFwdDecl.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpICallback.h">
+    <ClInclude Include="..\parsers\muparserx\mpICallback.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIfThenElse.h">
+    <ClInclude Include="..\parsers\muparserx\mpIfThenElse.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIOprt.h">
+    <ClInclude Include="..\parsers\muparserx\mpIOprt.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtBinAssign.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtBinAssign.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtBinCommon.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtBinCommon.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtIndex.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtIndex.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtMatrix.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtMatrix.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtNonCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtNonCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpOprtPostfixCommon.h">
+    <ClInclude Include="..\parsers\muparserx\mpOprtPostfixCommon.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageCommon.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageCommon.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageMatrix.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageMatrix.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageNonCmplx.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageNonCmplx.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageStr.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageStr.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpPackageUnit.h">
+    <ClInclude Include="..\parsers\muparserx\mpPackageUnit.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpParser.h">
+    <ClInclude Include="..\parsers\muparserx\mpParser.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpMatrixError.h">
+    <ClInclude Include="..\parsers\muparserx\mpMatrixError.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpMatrix.h">
+    <ClInclude Include="..\parsers\muparserx\mpMatrix.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIValue.h">
+    <ClInclude Include="..\parsers\muparserx\mpIValue.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIValReader.h">
+    <ClInclude Include="..\parsers\muparserx\mpIValReader.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIToken.h">
+    <ClInclude Include="..\parsers\muparserx\mpIToken.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIPrecedence.h">
+    <ClInclude Include="..\parsers\muparserx\mpIPrecedence.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpIPackage.h">
+    <ClInclude Include="..\parsers\muparserx\mpIPackage.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpParserBase.h">
+    <ClInclude Include="..\parsers\muparserx\mpParserBase.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpVariable.h">
+    <ClInclude Include="..\parsers\muparserx\mpVariable.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpParserMessageProvider.h">
+    <ClInclude Include="..\parsers\muparserx\mpParserMessageProvider.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpRPN.h">
+    <ClInclude Include="..\parsers\muparserx\mpRPN.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpScriptTokens.h">
+    <ClInclude Include="..\parsers\muparserx\mpScriptTokens.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpStack.h">
+    <ClInclude Include="..\parsers\muparserx\mpStack.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpTest.h">
+    <ClInclude Include="..\parsers\muparserx\mpTest.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpTokenReader.h">
+    <ClInclude Include="..\parsers\muparserx\mpTokenReader.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpTypes.h">
+    <ClInclude Include="..\parsers\muparserx\mpTypes.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpValReader.h">
+    <ClInclude Include="..\parsers\muparserx\mpValReader.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpValue.h">
+    <ClInclude Include="..\parsers\muparserx\mpValue.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\mpValueCache.h">
+    <ClInclude Include="..\parsers\muparserx\mpValueCache.h">
       <Filter>muparserx</Filter>
     </ClInclude>
     <ClInclude Include="..\muparser2\muParserTokenReader.h">
@@ -606,16 +606,16 @@
     <ClInclude Include="..\chaiscript\dispatchkit\operators.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\suSortPred.h">
+    <ClInclude Include="..\parsers\muparserx\suSortPred.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\suStringTokens.h">
+    <ClInclude Include="..\parsers\muparserx\suStringTokens.h">
       <Filter>muparserx</Filter>
     </ClInclude>
     <ClInclude Include="..\chaiscript\dispatchkit\type_info.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparserx\utGeneric.h">
+    <ClInclude Include="..\parsers\muparserx\utGeneric.h">
       <Filter>muparserx</Filter>
     </ClInclude>
     <ClInclude Include="..\mpfr\include\config.h">

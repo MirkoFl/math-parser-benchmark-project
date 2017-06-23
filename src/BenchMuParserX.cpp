@@ -2,7 +2,7 @@
 
 #include <cmath>
 
-#include "muparserx/mpParser.h"
+#include "parsers/muparserx/mpParser.h"
 
 //-------------------------------------------------------------------------------------------------
 BenchMuParserX::BenchMuParserX()
