@@ -6,7 +6,7 @@
 #include <cmath>
 
 #define LEPTON_BUILDING_STATIC_LIBRARY
-#include "lepton/Lepton.h"
+#include "parsers/lepton/Lepton.h"
 
 using namespace std;
 

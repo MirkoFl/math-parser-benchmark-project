@@ -194,22 +194,22 @@
     <ClCompile Include="..\src\cpuid.cpp">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\CompiledExpression.cpp">
+    <ClCompile Include="..\parsers\lepton\CompiledExpression.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\ExpressionProgram.cpp">
+    <ClCompile Include="..\parsers\lepton\ExpressionProgram.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\ExpressionTreeNode.cpp">
+    <ClCompile Include="..\parsers\lepton\ExpressionTreeNode.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\Operation.cpp">
+    <ClCompile Include="..\parsers\lepton\Operation.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\ParsedExpression.cpp">
+    <ClCompile Include="..\parsers\lepton\ParsedExpression.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
-    <ClCompile Include="..\lepton\Parser.cpp">
+    <ClCompile Include="..\parsers\lepton\Parser.cpp">
       <Filter>lepton</Filter>
     </ClCompile>
     <ClCompile Include="..\src\BenchNative.cpp" />
@@ -693,37 +693,37 @@
     <ClInclude Include="..\include\cpuid.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\ExpressionProgram.h">
+    <ClInclude Include="..\parsers\lepton\ExpressionProgram.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\ExpressionTreeNode.h">
+    <ClInclude Include="..\parsers\lepton\ExpressionTreeNode.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\Lepton.h">
+    <ClInclude Include="..\parsers\lepton\Lepton.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\MSVC_erfc.h">
+    <ClInclude Include="..\parsers\lepton\MSVC_erfc.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\Parser.h">
+    <ClInclude Include="..\parsers\lepton\Parser.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\windowsIncludes.h">
+    <ClInclude Include="..\parsers\lepton\windowsIncludes.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\lepton\CompiledExpression.h">
+    <ClInclude Include="..\parsers\lepton\lepton\CompiledExpression.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\lepton\CustomFunction.h">
+    <ClInclude Include="..\parsers\lepton\lepton\CustomFunction.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\lepton\Exception.h">
+    <ClInclude Include="..\parsers\lepton\lepton\Exception.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\lepton\Operation.h">
+    <ClInclude Include="..\parsers\lepton\lepton\Operation.h">
       <Filter>lepton</Filter>
     </ClInclude>
-    <ClInclude Include="..\lepton\lepton\ParsedExpression.h">
+    <ClInclude Include="..\parsers\lepton\lepton\ParsedExpression.h">
       <Filter>lepton</Filter>
     </ClInclude>
     <ClInclude Include="..\include\BenchNative.h">
