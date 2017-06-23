@@ -283,7 +283,7 @@
     <ClInclude Include="..\muparserx\suSortPred.h" />
     <ClInclude Include="..\muparserx\suStringTokens.h" />
     <ClInclude Include="..\muparserx\utGeneric.h" />
-    <ClInclude Include="..\tinyexpr\tinyexpr.h" />
+    <ClInclude Include="..\parsers\tinyexpr\tinyexpr.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\AsmJit\AssemblerX86X64.cpp" />
@@ -391,7 +391,7 @@
     <ClCompile Include="..\src\FormelGenerator.cpp" />
     <ClCompile Include="..\src\ParserBench.cpp" />
     <ClCompile Include="..\src\Stopwatch.cpp" />
-    <ClCompile Include="..\tinyexpr\tinyexpr.c" />
+    <ClCompile Include="..\parsers\tinyexpr\tinyexpr.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\chaiscript\language\chaiscript_prelude.chai" />

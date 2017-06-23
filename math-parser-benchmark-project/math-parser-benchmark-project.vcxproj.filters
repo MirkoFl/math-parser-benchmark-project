@@ -276,7 +276,7 @@
     <ClCompile Include="..\AsmJit\VirtualMemory.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\tinyexpr\tinyexpr.c">
+    <ClCompile Include="..\parsers\tinyexpr\tinyexpr.c">
       <Filter>tinyexpr</Filter>
     </ClCompile>
     <ClCompile Include="..\src\BenchTinyExpr.cpp" />
@@ -822,7 +822,7 @@
     <ClInclude Include="..\AsmJit\WarningsPush.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\tinyexpr\tinyexpr.h">
+    <ClInclude Include="..\parsers\tinyexpr\tinyexpr.h">
       <Filter>tinyexpr</Filter>
     </ClInclude>
     <ClInclude Include="..\include\BenchTinyExpr.h">
