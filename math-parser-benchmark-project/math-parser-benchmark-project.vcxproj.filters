@@ -13,7 +13,7 @@
     <ClCompile Include="..\libcpuid\asm-bits.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\MathExpr\mathexpr.cpp">
+    <ClCompile Include="..\parsers\MathExpr\mathexpr.cpp">
       <Filter>mathexpr</Filter>
     </ClCompile>
     <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParser.cpp">
@@ -372,7 +372,7 @@
     <ClInclude Include="..\libcpuid\asm-bits.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\MathExpr\mathexpr.h">
+    <ClInclude Include="..\parsers\MathExpr\mathexpr.h">
       <Filter>mathexpr</Filter>
     </ClInclude>
     <ClInclude Include="..\parsers\MTParser\MTParserLib\MTUnicodeANSIDefs.h">

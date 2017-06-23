@@ -195,7 +195,7 @@
     <ClInclude Include="..\libcpuid\libcpuid_util.h" />
     <ClInclude Include="..\libcpuid\recog_amd.h" />
     <ClInclude Include="..\libcpuid\recog_intel.h" />
-    <ClInclude Include="..\MathExpr\mathexpr.h" />
+    <ClInclude Include="..\parsers\MathExpr\mathexpr.h" />
     <ClInclude Include="..\mpfr\include\config.h" />
     <ClInclude Include="..\mpfr\include\gmp-mparam.h" />
     <ClInclude Include="..\mpfr\include\gmp.h" />
@@ -311,7 +311,7 @@
     <ClCompile Include="..\libcpuid\rdtsc.c" />
     <ClCompile Include="..\libcpuid\recog_amd.c" />
     <ClCompile Include="..\libcpuid\recog_intel.c" />
-    <ClCompile Include="..\MathExpr\mathexpr.cpp" />
+    <ClCompile Include="..\parsers\MathExpr\mathexpr.cpp" />
     <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParser.cpp" />
     <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserCompiler.cpp" />
     <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserExcepStrEng.cpp" />
