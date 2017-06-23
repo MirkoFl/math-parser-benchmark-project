@@ -318,7 +318,7 @@
     <ClInclude Include="..\chaiscript\language\chaiscript_prelude.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\exprtk\exprtk.hpp">
+    <ClInclude Include="..\parsers\exprtk\exprtk.hpp">
       <Filter>exprtk</Filter>
     </ClInclude>
     <ClInclude Include="..\chaiscript\dispatchkit\bootstrap.hpp">
@@ -642,7 +642,7 @@
     <ClInclude Include="..\mpfr\include\mpreal.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\exprtk\exprtk_mpfr_adaptor.hpp">
+    <ClInclude Include="..\parsers\exprtk\exprtk_mpfr_adaptor.hpp">
       <Filter>exprtk</Filter>
     </ClInclude>
     <ClInclude Include="..\include\BenchATMSP.h">

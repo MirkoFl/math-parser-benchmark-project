@@ -5,8 +5,8 @@
 #include <cmath>
 
 #include "mpfr/mpreal.h"
-#include "exprtk/exprtk_mpfr_adaptor.hpp"
-#include "exprtk/exprtk.hpp"
+#include "parsers/exprtk/exprtk_mpfr_adaptor.hpp"
+#include "parsers/exprtk/exprtk.hpp"
 
 
 //-------------------------------------------------------------------------------------------------

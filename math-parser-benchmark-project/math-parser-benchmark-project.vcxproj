@@ -157,8 +157,8 @@
     <ClInclude Include="..\chaiscript\language\chaiscript_prelude.hpp" />
     <ClInclude Include="..\chaiscript\language\chaiscript_prelude_docs.hpp" />
     <ClInclude Include="..\chaiscript\utility\utility.hpp" />
-    <ClInclude Include="..\exprtk\exprtk.hpp" />
-    <ClInclude Include="..\exprtk\exprtk_mpfr_adaptor.hpp" />
+    <ClInclude Include="..\parsers\exprtk\exprtk.hpp" />
+    <ClInclude Include="..\parsers\exprtk\exprtk_mpfr_adaptor.hpp" />
     <ClInclude Include="..\include\BenchATMSP.h" />
     <ClInclude Include="..\include\BenchChaiScript.h" />
     <ClInclude Include="..\include\BenchExprTk.h" />
