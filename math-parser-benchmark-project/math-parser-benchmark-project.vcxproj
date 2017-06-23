@@ -298,7 +298,7 @@
     <ClCompile Include="..\AsmJit\SerializerX86X64.cpp" />
     <ClCompile Include="..\AsmJit\Util.cpp" />
     <ClCompile Include="..\AsmJit\VirtualMemory.cpp" />
-    <ClCompile Include="..\fparser\fparser.cc" />
+    <ClCompile Include="..\parsers\fparser\fparser.cc" />
     <ClCompile Include="..\parsers\lepton\CompiledExpression.cpp" />
     <ClCompile Include="..\parsers\lepton\ExpressionProgram.cpp" />
     <ClCompile Include="..\parsers\lepton\ExpressionTreeNode.cpp" />
@@ -395,7 +395,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\chaiscript\language\chaiscript_prelude.chai" />
-    <None Include="..\fparser\fparser.hh" />
+    <None Include="..\parsers\fparser\fparser.hh" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

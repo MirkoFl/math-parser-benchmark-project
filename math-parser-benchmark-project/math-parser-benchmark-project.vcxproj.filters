@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="..\fparser\fparser.cc">
+    <ClCompile Include="..\parsers\fparser\fparser.cc">
       <Filter>fparser</Filter>
     </ClCompile>
     <ClCompile Include="..\libcpuid\cpuid_main.c">
@@ -833,7 +833,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\fparser\fparser.hh">
+    <None Include="..\parsers\fparser\fparser.hh">
       <Filter>fparser</Filter>
     </None>
     <None Include="..\chaiscript\language\chaiscript_prelude.chai">

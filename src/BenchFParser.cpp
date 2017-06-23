@@ -3,7 +3,7 @@
 #include <cmath>
 
 // fparser includes
-#include "fparser/fparser.hh"
+#include "parsers/fparser/fparser.hh"
 
 //-------------------------------------------------------------------------------------------------
 BenchFParser::BenchFParser()
