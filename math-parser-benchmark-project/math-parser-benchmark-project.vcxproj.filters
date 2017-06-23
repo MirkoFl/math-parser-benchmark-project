@@ -148,22 +148,22 @@
     <ClCompile Include="..\parsers\muparserx\mpVariable.cpp">
       <Filter>muparserx</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParser.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParser.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParserBase.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParserBase.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParserBytecode.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParserBytecode.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParserCallback.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParserCallback.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParserError.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParserError.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\muparser2\muParserTokenReader.cpp">
+    <ClCompile Include="..\parsers\muparser2\muParserTokenReader.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
     <ClCompile Include="..\libcpuid\recog_intel.c">
@@ -534,37 +534,37 @@
     <ClInclude Include="..\parsers\muparserx\mpValueCache.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserTokenReader.h">
+    <ClInclude Include="..\parsers\muparser2\muParserTokenReader.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParser.h">
+    <ClInclude Include="..\parsers\muparser2\muParser.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserBase.h">
+    <ClInclude Include="..\parsers\muparser2\muParserBase.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserBytecode.h">
+    <ClInclude Include="..\parsers\muparser2\muParserBytecode.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserCallback.h">
+    <ClInclude Include="..\parsers\muparser2\muParserCallback.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserDef.h">
+    <ClInclude Include="..\parsers\muparser2\muParserDef.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserError.h">
+    <ClInclude Include="..\parsers\muparser2\muParserError.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserFixes.h">
+    <ClInclude Include="..\parsers\muparser2\muParserFixes.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserStack.h">
+    <ClInclude Include="..\parsers\muparser2\muParserStack.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserTemplateMagic.h">
+    <ClInclude Include="..\parsers\muparser2\muParserTemplateMagic.h">
       <Filter>muparser2</Filter>
     </ClInclude>
-    <ClInclude Include="..\muparser2\muParserToken.h">
+    <ClInclude Include="..\parsers\muparser2\muParserToken.h">
       <Filter>muparser2</Filter>
     </ClInclude>
     <ClInclude Include="..\chaiscript\dispatchkit\function_call.hpp">

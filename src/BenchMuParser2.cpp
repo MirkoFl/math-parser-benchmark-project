@@ -4,7 +4,7 @@
 //#include <windows.h>
 
 //-------------------------------------------------------------------------------------------------
-#include "muparser2/muParser.h"
+#include "parsers/muparser2/muParser.h"
 
 using namespace mu;
 
