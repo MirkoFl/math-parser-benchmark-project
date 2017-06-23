@@ -3,7 +3,7 @@
 #include <cmath>
 #include <cassert>
 
-#include "muParserSSE/muParserSSE.h"
+#include "parsers/muParserSSE/muParserSSE.h"
 
 using namespace std;
 

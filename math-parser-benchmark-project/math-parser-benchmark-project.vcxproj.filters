@@ -213,31 +213,31 @@
       <Filter>lepton</Filter>
     </ClCompile>
     <ClCompile Include="..\src\BenchNative.cpp" />
-    <ClCompile Include="..\muParserSSE\mecCallback.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecCallback.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecError.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecError.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecExprCompiler.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecExprCompiler.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecParser.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecParser.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecParserBase.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecParserBase.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecReversePolishNotation.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecReversePolishNotation.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecToken.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecToken.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecTokenReader.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecTokenReader.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\muParserSSE\mecUnitTest.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\mecUnitTest.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
     <ClCompile Include="..\AsmJit\AssemblerX86X64.cpp">
@@ -280,7 +280,7 @@
       <Filter>tinyexpr</Filter>
     </ClCompile>
     <ClCompile Include="..\src\BenchTinyExpr.cpp" />
-    <ClCompile Include="..\muParserSSE\muParserSSE.cpp">
+    <ClCompile Include="..\parsers\muParserSSE\muParserSSE.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
   </ItemGroup>
@@ -594,7 +594,7 @@
     <ClInclude Include="..\chaiscript\dispatchkit\dispatchkit.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\muParserSSE.h">
+    <ClInclude Include="..\parsers\muParserSSE\muParserSSE.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
     <ClInclude Include="..\chaiscript\dispatchkit\register_function.hpp">
@@ -729,37 +729,37 @@
     <ClInclude Include="..\include\BenchNative.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecCallback.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecCallback.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecDef.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecDef.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecError.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecError.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecExprCompiler.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecExprCompiler.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecParser.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecParser.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecParserBase.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecParserBase.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecReversePolishNotation.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecReversePolishNotation.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecStack.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecStack.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecToken.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecToken.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecTokenReader.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecTokenReader.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\muParserSSE\mecUnitTest.h">
+    <ClInclude Include="..\parsers\muParserSSE\mecUnitTest.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
     <ClInclude Include="..\AsmJit\AsmJit.h">
