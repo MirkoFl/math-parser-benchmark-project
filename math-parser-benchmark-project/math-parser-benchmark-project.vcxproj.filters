@@ -16,25 +16,25 @@
     <ClCompile Include="..\MathExpr\mathexpr.cpp">
       <Filter>mathexpr</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTParser.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParser.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTParserCompiler.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserCompiler.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTParserExcepStrEng.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserExcepStrEng.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTParserMacroFunc.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserMacroFunc.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTParserRegistrar.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTParserRegistrar.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTTools.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTTools.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\MTParser\MTParserLib\MTUnicodeANSIDefs.cpp">
+    <ClCompile Include="..\parsers\MTParser\MTParserLib\MTUnicodeANSIDefs.cpp">
       <Filter>mtparser</Filter>
     </ClCompile>
     <ClCompile Include="..\parsers\muparserx\mpError.cpp">
@@ -375,31 +375,31 @@
     <ClInclude Include="..\MathExpr\mathexpr.h">
       <Filter>mathexpr</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTUnicodeANSIDefs.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTUnicodeANSIDefs.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParser.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParser.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserCompiler.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserCompiler.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserDefFuncs.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserDefFuncs.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserDefOps.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserDefOps.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserExcepStrEng.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserExcepStrEng.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserException.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserException.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTParserRegistrar.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserRegistrar.h">
       <Filter>mtparser</Filter>
     </ClInclude>
-    <ClInclude Include="..\MTParser\MTParserLib\MTTools.h">
+    <ClInclude Include="..\parsers\MTParser\MTParserLib\MTTools.h">
       <Filter>mtparser</Filter>
     </ClInclude>
     <ClInclude Include="..\parsers\muparserx\mpDefines.h">
