@@ -618,28 +618,28 @@
     <ClInclude Include="..\parsers\muparserx\utGeneric.h">
       <Filter>muparserx</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\config.h">
+    <ClInclude Include="..\utils\mpfr\include\config.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\gmp.h">
+    <ClInclude Include="..\utils\mpfr\include\gmp.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\gmp-mparam.h">
+    <ClInclude Include="..\utils\mpfr\include\gmp-mparam.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\gmpxx.h">
+    <ClInclude Include="..\utils\mpfr\include\gmpxx.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\mpfr.h">
+    <ClInclude Include="..\utils\mpfr\include\mpfr.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\mpir.h">
+    <ClInclude Include="..\utils\mpfr\include\mpir.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\mpirxx.h">
+    <ClInclude Include="..\utils\mpfr\include\mpirxx.h">
       <Filter>mpfr</Filter>
     </ClInclude>
-    <ClInclude Include="..\mpfr\include\mpreal.h">
+    <ClInclude Include="..\utils\mpfr\include\mpreal.h">
       <Filter>mpfr</Filter>
     </ClInclude>
     <ClInclude Include="..\parsers\exprtk\exprtk_mpfr_adaptor.hpp">

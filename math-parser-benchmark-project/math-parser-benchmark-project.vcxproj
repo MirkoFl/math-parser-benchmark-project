@@ -67,7 +67,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>Advapi32.lib;OleAut32.lib;User32.lib;mpfr.lib;mpir.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <OutputFile>$(SolutionDir)$(Configuration)\ParserBenchmark.exe</OutputFile>
-      <AdditionalLibraryDirectories>..\mpfr\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\utils\mpfr\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <PostBuildEvent>
       <Command>copy /Y "$(SolutionDir)mpfr\dll\*.dll" "$(TargetDir)"</Command>
@@ -95,10 +95,10 @@
       <OptimizeReferences>true</OptimizeReferences>
       <AdditionalDependencies>Advapi32.lib;OleAut32.lib;User32.lib;mpfr.lib;mpir.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <OutputFile>$(SolutionDir)$(Configuration)\ParserBenchmark.exe</OutputFile>
-      <AdditionalLibraryDirectories>..\mpfr\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\utils\mpfr\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
     <PostBuildEvent>
-      <Command>copy /Y "$(SolutionDir)mpfr\dll\*.dll" "$(TargetDir)"</Command>
+      <Command>copy /Y "$(SolutionDir)utils\mpfr\dll\*.dll" "$(TargetDir)"</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
@@ -196,14 +196,14 @@
     <ClInclude Include="..\libcpuid\recog_amd.h" />
     <ClInclude Include="..\libcpuid\recog_intel.h" />
     <ClInclude Include="..\parsers\MathExpr\mathexpr.h" />
-    <ClInclude Include="..\mpfr\include\config.h" />
-    <ClInclude Include="..\mpfr\include\gmp-mparam.h" />
-    <ClInclude Include="..\mpfr\include\gmp.h" />
-    <ClInclude Include="..\mpfr\include\gmpxx.h" />
-    <ClInclude Include="..\mpfr\include\mpfr.h" />
-    <ClInclude Include="..\mpfr\include\mpir.h" />
-    <ClInclude Include="..\mpfr\include\mpirxx.h" />
-    <ClInclude Include="..\mpfr\include\mpreal.h" />
+    <ClInclude Include="..\utils\mpfr\include\config.h" />
+    <ClInclude Include="..\utils\mpfr\include\gmp-mparam.h" />
+    <ClInclude Include="..\utils\mpfr\include\gmp.h" />
+    <ClInclude Include="..\utils\mpfr\include\gmpxx.h" />
+    <ClInclude Include="..\utils\mpfr\include\mpfr.h" />
+    <ClInclude Include="..\utils\mpfr\include\mpir.h" />
+    <ClInclude Include="..\utils\mpfr\include\mpirxx.h" />
+    <ClInclude Include="..\utils\mpfr\include\mpreal.h" />
     <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParser.h" />
     <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserCompiler.h" />
     <ClInclude Include="..\parsers\MTParser\MTParserLib\MTParserDefFuncs.h" />
