@@ -828,7 +828,7 @@
     <ClInclude Include="..\include\BenchTinyExpr.h">
       <Filter>headers</Filter>
     </ClInclude>
-    <ClInclude Include="..\atmsp\atmsp.h">
+    <ClInclude Include="..\utils\atmsp\atmsp.h">
       <Filter>atmsp</Filter>
     </ClInclude>
   </ItemGroup>

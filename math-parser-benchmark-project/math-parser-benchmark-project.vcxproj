@@ -122,7 +122,7 @@
     <ClInclude Include="..\AsmJit\VirtualMemory.h" />
     <ClInclude Include="..\AsmJit\WarningsPop.h" />
     <ClInclude Include="..\AsmJit\WarningsPush.h" />
-    <ClInclude Include="..\atmsp\atmsp.h" />
+    <ClInclude Include="..\utils\atmsp\atmsp.h" />
     <ClInclude Include="..\utils\chaiscript\chaiscript.hpp" />
     <ClInclude Include="..\utils\chaiscript\chaiscript_defines.hpp" />
     <ClInclude Include="..\utils\chaiscript\chaiscript_stdlib.hpp" />
