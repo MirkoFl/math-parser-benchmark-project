@@ -4,13 +4,13 @@
     <ClCompile Include="..\parsers\fparser\fparser.cc">
       <Filter>fparser</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\cpuid_main.c">
+    <ClCompile Include="..\utils\libcpuid\cpuid_main.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\libcpuid_util.c">
+    <ClCompile Include="..\utils\libcpuid\libcpuid_util.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\asm-bits.c">
+    <ClCompile Include="..\utils\libcpuid\asm-bits.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
     <ClCompile Include="..\parsers\MathExpr\mathexpr.cpp">
@@ -166,13 +166,13 @@
     <ClCompile Include="..\parsers\muparser2\muParserTokenReader.cpp">
       <Filter>muparser2</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\recog_intel.c">
+    <ClCompile Include="..\utils\libcpuid\recog_intel.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\recog_amd.c">
+    <ClCompile Include="..\utils\libcpuid\recog_amd.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
-    <ClCompile Include="..\libcpuid\rdtsc.c">
+    <ClCompile Include="..\utils\libcpuid\rdtsc.c">
       <Filter>libcpuid</Filter>
     </ClCompile>
     <ClCompile Include="..\src\BenchATMSP.cpp" />
@@ -357,19 +357,19 @@
     <ClInclude Include="..\chaiscript\dispatchkit\exception_specification.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\libcpuid.h">
+    <ClInclude Include="..\utils\libcpuid\libcpuid.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\libcpuid_constants.h">
+    <ClInclude Include="..\utils\libcpuid\libcpuid_constants.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\libcpuid_types.h">
+    <ClInclude Include="..\utils\libcpuid\libcpuid_types.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\libcpuid_util.h">
+    <ClInclude Include="..\utils\libcpuid\libcpuid_util.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\asm-bits.h">
+    <ClInclude Include="..\utils\libcpuid\asm-bits.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
     <ClInclude Include="..\parsers\MathExpr\mathexpr.h">
@@ -585,10 +585,10 @@
     <ClInclude Include="..\chaiscript\dispatchkit\proxy_functions_detail.hpp">
       <Filter>chaiscript</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\recog_intel.h">
+    <ClInclude Include="..\utils\libcpuid\recog_intel.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
-    <ClInclude Include="..\libcpuid\recog_amd.h">
+    <ClInclude Include="..\utils\libcpuid\recog_amd.h">
       <Filter>libcpuid</Filter>
     </ClInclude>
     <ClInclude Include="..\chaiscript\dispatchkit\dispatchkit.hpp">

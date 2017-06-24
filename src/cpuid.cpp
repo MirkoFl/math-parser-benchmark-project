@@ -3,7 +3,7 @@
 #include <deque>
 #include <algorithm>
 
-#include "libcpuid/libcpuid.h"
+#include "utils/libcpuid/libcpuid.h"
 
 void dump_cpuid(FILE* file)
 {
