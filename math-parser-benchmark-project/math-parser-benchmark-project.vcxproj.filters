@@ -240,40 +240,40 @@
     <ClCompile Include="..\parsers\muParserSSE\mecUnitTest.cpp">
       <Filter>muparsersse</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\AssemblerX86X64.cpp">
+    <ClCompile Include="..\utils\AsmJit\AssemblerX86X64.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\CompilerX86X64.cpp">
+    <ClCompile Include="..\utils\AsmJit\CompilerX86X64.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\CpuInfo.cpp">
+    <ClCompile Include="..\utils\AsmJit\CpuInfo.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\Defs.cpp">
+    <ClCompile Include="..\utils\AsmJit\Defs.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\Lock.cpp">
+    <ClCompile Include="..\utils\AsmJit\Lock.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\Logger.cpp">
+    <ClCompile Include="..\utils\AsmJit\Logger.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\LoggerX86X64.cpp">
+    <ClCompile Include="..\utils\AsmJit\LoggerX86X64.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\LoggerX86X64Dump.cpp">
+    <ClCompile Include="..\utils\AsmJit\LoggerX86X64Dump.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\MemoryManager.cpp">
+    <ClCompile Include="..\utils\AsmJit\MemoryManager.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\SerializerX86X64.cpp">
+    <ClCompile Include="..\utils\AsmJit\SerializerX86X64.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\Util.cpp">
+    <ClCompile Include="..\utils\AsmJit\Util.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
-    <ClCompile Include="..\AsmJit\VirtualMemory.cpp">
+    <ClCompile Include="..\utils\AsmJit\VirtualMemory.cpp">
       <Filter>asmjit</Filter>
     </ClCompile>
     <ClCompile Include="..\parsers\tinyexpr\tinyexpr.c">
@@ -762,64 +762,64 @@
     <ClInclude Include="..\parsers\muParserSSE\mecUnitTest.h">
       <Filter>muparsersse</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\AsmJit.h">
+    <ClInclude Include="..\utils\AsmJit\AsmJit.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Assembler.h">
+    <ClInclude Include="..\utils\AsmJit\Assembler.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\AssemblerX86X64.h">
+    <ClInclude Include="..\utils\AsmJit\AssemblerX86X64.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Build.h">
+    <ClInclude Include="..\utils\AsmJit\Build.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Compiler.h">
+    <ClInclude Include="..\utils\AsmJit\Compiler.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\CompilerX86X64.h">
+    <ClInclude Include="..\utils\AsmJit\CompilerX86X64.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Config.h">
+    <ClInclude Include="..\utils\AsmJit\Config.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\CpuInfo.h">
+    <ClInclude Include="..\utils\AsmJit\CpuInfo.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Defs.h">
+    <ClInclude Include="..\utils\AsmJit\Defs.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\DefsX86X64.h">
+    <ClInclude Include="..\utils\AsmJit\DefsX86X64.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Lock.h">
+    <ClInclude Include="..\utils\AsmJit\Lock.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Logger.h">
+    <ClInclude Include="..\utils\AsmJit\Logger.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\LoggerX86X64.h">
+    <ClInclude Include="..\utils\AsmJit\LoggerX86X64.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\MemoryManager.h">
+    <ClInclude Include="..\utils\AsmJit\MemoryManager.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Serializer.h">
+    <ClInclude Include="..\utils\AsmJit\Serializer.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\SerializerX86X64.h">
+    <ClInclude Include="..\utils\AsmJit\SerializerX86X64.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\Util.h">
+    <ClInclude Include="..\utils\AsmJit\Util.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\VirtualMemory.h">
+    <ClInclude Include="..\utils\AsmJit\VirtualMemory.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\WarningsPop.h">
+    <ClInclude Include="..\utils\AsmJit\WarningsPop.h">
       <Filter>asmjit</Filter>
     </ClInclude>
-    <ClInclude Include="..\AsmJit\WarningsPush.h">
+    <ClInclude Include="..\utils\AsmJit\WarningsPush.h">
       <Filter>asmjit</Filter>
     </ClInclude>
     <ClInclude Include="..\parsers\tinyexpr\tinyexpr.h">

@@ -102,26 +102,26 @@
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\AsmJit\AsmJit.h" />
-    <ClInclude Include="..\AsmJit\Assembler.h" />
-    <ClInclude Include="..\AsmJit\AssemblerX86X64.h" />
-    <ClInclude Include="..\AsmJit\Build.h" />
-    <ClInclude Include="..\AsmJit\Compiler.h" />
-    <ClInclude Include="..\AsmJit\CompilerX86X64.h" />
-    <ClInclude Include="..\AsmJit\Config.h" />
-    <ClInclude Include="..\AsmJit\CpuInfo.h" />
-    <ClInclude Include="..\AsmJit\Defs.h" />
-    <ClInclude Include="..\AsmJit\DefsX86X64.h" />
-    <ClInclude Include="..\AsmJit\Lock.h" />
-    <ClInclude Include="..\AsmJit\Logger.h" />
-    <ClInclude Include="..\AsmJit\LoggerX86X64.h" />
-    <ClInclude Include="..\AsmJit\MemoryManager.h" />
-    <ClInclude Include="..\AsmJit\Serializer.h" />
-    <ClInclude Include="..\AsmJit\SerializerX86X64.h" />
-    <ClInclude Include="..\AsmJit\Util.h" />
-    <ClInclude Include="..\AsmJit\VirtualMemory.h" />
-    <ClInclude Include="..\AsmJit\WarningsPop.h" />
-    <ClInclude Include="..\AsmJit\WarningsPush.h" />
+    <ClInclude Include="..\utils\AsmJit\AsmJit.h" />
+    <ClInclude Include="..\utils\AsmJit\Assembler.h" />
+    <ClInclude Include="..\utils\AsmJit\AssemblerX86X64.h" />
+    <ClInclude Include="..\utils\AsmJit\Build.h" />
+    <ClInclude Include="..\utils\AsmJit\Compiler.h" />
+    <ClInclude Include="..\utils\AsmJit\CompilerX86X64.h" />
+    <ClInclude Include="..\utils\AsmJit\Config.h" />
+    <ClInclude Include="..\utils\AsmJit\CpuInfo.h" />
+    <ClInclude Include="..\utils\AsmJit\Defs.h" />
+    <ClInclude Include="..\utils\AsmJit\DefsX86X64.h" />
+    <ClInclude Include="..\utils\AsmJit\Lock.h" />
+    <ClInclude Include="..\utils\AsmJit\Logger.h" />
+    <ClInclude Include="..\utils\AsmJit\LoggerX86X64.h" />
+    <ClInclude Include="..\utils\AsmJit\MemoryManager.h" />
+    <ClInclude Include="..\utils\AsmJit\Serializer.h" />
+    <ClInclude Include="..\utils\AsmJit\SerializerX86X64.h" />
+    <ClInclude Include="..\utils\AsmJit\Util.h" />
+    <ClInclude Include="..\utils\AsmJit\VirtualMemory.h" />
+    <ClInclude Include="..\utils\AsmJit\WarningsPop.h" />
+    <ClInclude Include="..\utils\AsmJit\WarningsPush.h" />
     <ClInclude Include="..\utils\atmsp\atmsp.h" />
     <ClInclude Include="..\utils\chaiscript\chaiscript.hpp" />
     <ClInclude Include="..\utils\chaiscript\chaiscript_defines.hpp" />
@@ -286,18 +286,18 @@
     <ClInclude Include="..\parsers\tinyexpr\tinyexpr.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\AsmJit\AssemblerX86X64.cpp" />
-    <ClCompile Include="..\AsmJit\CompilerX86X64.cpp" />
-    <ClCompile Include="..\AsmJit\CpuInfo.cpp" />
-    <ClCompile Include="..\AsmJit\Defs.cpp" />
-    <ClCompile Include="..\AsmJit\Lock.cpp" />
-    <ClCompile Include="..\AsmJit\Logger.cpp" />
-    <ClCompile Include="..\AsmJit\LoggerX86X64.cpp" />
-    <ClCompile Include="..\AsmJit\LoggerX86X64Dump.cpp" />
-    <ClCompile Include="..\AsmJit\MemoryManager.cpp" />
-    <ClCompile Include="..\AsmJit\SerializerX86X64.cpp" />
-    <ClCompile Include="..\AsmJit\Util.cpp" />
-    <ClCompile Include="..\AsmJit\VirtualMemory.cpp" />
+    <ClCompile Include="..\utils\AsmJit\AssemblerX86X64.cpp" />
+    <ClCompile Include="..\utils\AsmJit\CompilerX86X64.cpp" />
+    <ClCompile Include="..\utils\AsmJit\CpuInfo.cpp" />
+    <ClCompile Include="..\utils\AsmJit\Defs.cpp" />
+    <ClCompile Include="..\utils\AsmJit\Lock.cpp" />
+    <ClCompile Include="..\utils\AsmJit\Logger.cpp" />
+    <ClCompile Include="..\utils\AsmJit\LoggerX86X64.cpp" />
+    <ClCompile Include="..\utils\AsmJit\LoggerX86X64Dump.cpp" />
+    <ClCompile Include="..\utils\AsmJit\MemoryManager.cpp" />
+    <ClCompile Include="..\utils\AsmJit\SerializerX86X64.cpp" />
+    <ClCompile Include="..\utils\AsmJit\Util.cpp" />
+    <ClCompile Include="..\utils\AsmJit\VirtualMemory.cpp" />
     <ClCompile Include="..\parsers\fparser\fparser.cc" />
     <ClCompile Include="..\parsers\lepton\CompiledExpression.cpp" />
     <ClCompile Include="..\parsers\lepton\ExpressionProgram.cpp" />
